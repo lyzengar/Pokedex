@@ -8,3 +8,5 @@ const TopScreen = (props) => {
         </div>
     )
 }
+
+export default TopScreen;

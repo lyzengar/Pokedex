@@ -1,3 +1,10 @@
 .main {
-    background-color: black;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    position: absolute;
+    height: 100%;
 }

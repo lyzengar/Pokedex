@@ -6,6 +6,8 @@ const SelectPok = (props) => {
         <div className="select-pok">
             <select name="pokemon">
                 <option value="bulbasaur">001 - Bulbasaur</option>
+                <option value="ivysaur">002 - Ivysaur</option>
+                <option value="venusaur">003 - Venusaur</option>
             </select>
         </div>
     )

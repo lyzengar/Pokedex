@@ -17,6 +17,9 @@ const SelectPok = (props) => {
                 <option value="caterpie">010 - Caterpie</option>
                 <option value="metapod">011 - Metapod</option>
                 <option value="butterfree">012 - Butterfree</option>
+                <option value="weedle">013 - Weedle</option>
+                <option value="kakuna">014 - Kakuna</option>
+                <option value="beedrill">015 - Beedrill</option>
             </select>
         </div>
     )

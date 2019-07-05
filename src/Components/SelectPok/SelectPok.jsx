@@ -36,6 +36,9 @@ const SelectPok = (props) => {
                 <option value="nidoran-f">029 - Nidoran ♀️</option>
                 <option value="nidorina">030 - Nidorina</option>
                 <option value="nidoqueen">031 - Nidoqueen</option>
+                <option value="nidoran-m">032 - Nidoran ♂️</option>
+                <option value="nidorino">033 - Nidorino</option>
+                <option value="nidoking">034 - Nidoking</option>
             </select>
         </div>
     )

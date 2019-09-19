@@ -85,8 +85,8 @@ const SelectPok = (props) => {
                 <option value="rapidash">078 - Rapidash</option>
                 <option value="slowpoke">079 - Slowpoke</option>
                 <option value="slowbro">080 - Slowbro</option>
-                <option value="magnemite">079 - Magnemite</option>
-                <option value="magneton">080 - Magneton</option>
+                <option value="magnemite">081 - Magnemite</option>
+                <option value="magneton">082 - Magneton</option>
             </select>
         </div>
     )

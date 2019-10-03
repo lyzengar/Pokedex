@@ -96,9 +96,9 @@ const SelectPok = (props) => {
                 <option value="muk">089 - Muk</option>
                 <option value="shellder">090 - Shellder</option>
                 <option value="cloyster">091 - Cloyster</option>
-                <option value="gastly">089 - Gastly</option>
-                <option value="haunter">090 - Haunter</option>
-                <option value="gengar">091 - Gengar</option>
+                <option value="gastly">092 - Gastly</option>
+                <option value="haunter">093 - Haunter</option>
+                <option value="gengar">094 - Gengar</option>
             </select>
         </div>
     )
